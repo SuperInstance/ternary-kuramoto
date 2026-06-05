@@ -1,0 +1,6 @@
+[package]
+name = "ternary-kuramoto"
+version = "0.1.0"
+edition = "2021"
+description = "Discrete Kuramoto oscillator — phase-to-ternary mapping, coupling, order parameter, chimera detection"
+license = "MIT"
